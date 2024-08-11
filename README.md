@@ -1,3 +1,4 @@
+
 ### Hi i'm MINGI KANG 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkang20%2Fhit-counter&count_bg=%2379C83D&title_bg=%232F62A6&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -22,10 +23,10 @@
     <br>
     <a href="https://silk-vanilla-48e.notion.site/27cb718191314bc7a9b09a6de0d7554a?pvs=25"><img src="https://img.shields.io/badge/Project Notion-000000?style=flat&logo=Notion&logoColor=ffffff" height=20/></a>
 
-- `to.duck`: **성인 ADHD 환자들을 위한 토닥임**
+-  <img width="25" src="https://github.com/user-attachments/assets/18fed729-7fd9-4d72-a7c7-498a69447fc3" alt="토덕 커밋">`to.duck`: **성인 ADHD 환자들을 위한 토닥임**
     - Spring 개발: [진행중]
 
-- <img width="13" src="https://gist.github.com/user-attachments/assets/3279811b-ea5f-41db-bc01-c405f8904765" alt="야금톡 로고"> `kumoh-talk`: **금오공대 IT 커뮤니티 사이트**
+- <img width="13" src="https://github.com/user-attachments/assets/7ae0b8a5-bcb7-4ee9-91e8-3c649248635b" alt="야금톡 로고"> `kumoh-talk`: **금오공대 IT 커뮤니티 사이트**
     - Spring 개발: [진행중]
 
 ## 🌱 Activity
@@ -38,7 +39,7 @@
     - `부회장 및 백엔드 운영진: 2024.01 ~ 2025.12`
     - Spring 멘토링 진행
     
-- <img width="13" src="https://gist.github.com/user-attachments/assets/3279811b-ea5f-41db-bc01-c405f8904765" alt="야금톡 로고"> **대학교 IT 세미나 행사**: 야밤의 금오톡
+- <img width="13" src="https://github.com/user-attachments/assets/7ae0b8a5-bcb7-4ee9-91e8-3c649248635b" alt="야금톡 로고"> **대학교 IT 세미나 행사**: 야밤의 금오톡
     - `백엔드 개발진: 2024.03 ~ ing`
 
 ## 📖  Books
