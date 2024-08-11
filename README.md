@@ -23,7 +23,7 @@
     - Spring 개발 : 유니티를 웹 서비스로 통신하는 파이프라인 설계, 로그인 및 API 구축
     - [[2위] 입상 증명서](https://ibb.co/sWNmTpR)
 - <img width="13" src="https://pbs.twimg.com/profile_images/1510907486026727424/Zuz16hnf_400x400.png" alt="멋사 로고"> **금오공대 멋쟁이사자처럼 대학 12기**
-    - `부회장 및 백엔드 운영진: 2024.01 ~ 2025.12`
+    - `부회장 및 백엔드 운영진: 2024.01 ~ 2024.12`
     - Spring 멘토링 진행
 - <img width="13" src="https://github.com/user-attachments/assets/7ae0b8a5-bcb7-4ee9-91e8-3c649248635b" alt="야금톡 로고"> **대학교 IT 세미나 행사**: 야밤의 금오톡
     - `백엔드 개발진: 2024.03 ~ ing`
