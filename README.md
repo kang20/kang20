@@ -1,4 +1,4 @@
-### Hi i'm MINGI KANG 😄
+### HI i'm MINGI KANG 😄
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkang20%2Fhit-counter&count_bg=%2379C83D&title_bg=%232F62A6&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 🛠️ Stacks
@@ -35,7 +35,6 @@
 - <img width="13" src="https://pbs.twimg.com/profile_images/1510907486026727424/Zuz16hnf_400x400.png" alt="멋사 로고"> **금오공대 멋쟁이사자처럼 대학 12기**
     - `부회장 및 백엔드 운영진: 2024.01 ~ 2025.12`
     - Spring 멘토링 진행
-    
 - <img width="13" src="https://github.com/user-attachments/assets/7ae0b8a5-bcb7-4ee9-91e8-3c649248635b" alt="야금톡 로고"> **대학교 IT 세미나 행사**: 야밤의 금오톡
     - `백엔드 개발진: 2024.03 ~ ing`
 
@@ -46,10 +45,6 @@
 - 만들면서 배우는 클린 아키텍처 (완독)
 - AWS 교과서 (60% 발췌독)
 - 개발자를 위한 레디스 (10% 발췌독)
-
-<br>
-<br>
-
 
 [![Kang20 GitHub stats](https://github-readme-stats.vercel.app/api?username=Kang20)](https://github.com/Kang20/github-readme-stats)
 
