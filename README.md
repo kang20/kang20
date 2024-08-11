@@ -8,7 +8,7 @@
 
 ## 📚 Project
 - 📘 `일심동책`: **감정 기반 책 추천 및 리뷰 플랫폼**
-    - Spring 개발 : CI/CD 구축, Infra 설계, API 구현, 추천 Batch 시스템 구현
+    - Spring 개발 : CI/CD 구축, Infra 설계, API 구현, 추천 Batch 시스템 파이프라인 구축
     - [develop document](https://silk-vanilla-48e.notion.site/27cb718191314bc7a9b09a6de0d7554a?pvs=25)
     - [github](https://github.com/LikeLion12th-OMEB/Backend)
 -  <img width="25" src="https://github.com/user-attachments/assets/18fed729-7fd9-4d72-a7c7-498a69447fc3" alt="토덕 커밋">`to.duck`: **성인 ADHD 환자들을 위한 토닥임**
@@ -20,7 +20,7 @@
 - 🥼  **Inteligence Software Lab**: 학부 연구생
     - `최적화 알고리즘 연구 참여 : 2023.05 ~ ing`
 - 🏆 **2023년 메타버스 수도 경북 해커톤**
-    - Spring 개발 : 유니티를 웹 서비스로 통신하는 파이프라인 설계, 로그인 및 API 구축
+    - Spring 개발 : 유니티를 웹 서비스로 통신하는 파이프라인 구축, 로그인 및 API 구현
     - [[2위] 입상 증명서](https://ibb.co/sWNmTpR)
 - <img width="13" src="https://pbs.twimg.com/profile_images/1510907486026727424/Zuz16hnf_400x400.png" alt="멋사 로고"> **금오공대 멋쟁이사자처럼 대학 12기**
     - `부회장 및 백엔드 운영진: 2024.01 ~ 2024.12`
