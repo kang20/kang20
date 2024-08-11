@@ -21,10 +21,8 @@
       <br>
     <a href="https://github.com/LikeLion12th-OMEB/Backend"><img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" height=25/></a>
     <a href="https://silk-vanilla-48e.notion.site/27cb718191314bc7a9b09a6de0d7554a?pvs=25"><img src="https://img.shields.io/badge/Project Notion-000000?style=flat&logo=Notion&logoColor=ffffff" height=20/></a>
-
 -  <img width="25" src="https://github.com/user-attachments/assets/18fed729-7fd9-4d72-a7c7-498a69447fc3" alt="토덕 커밋">`to.duck`: **성인 ADHD 환자들을 위한 토닥임**
     - Spring 개발: [진행중]
-
 - <img width="13" src="https://github.com/user-attachments/assets/7ae0b8a5-bcb7-4ee9-91e8-3c649248635b" alt="야금톡 로고"> `kumoh-talk`: **금오공대 IT 커뮤니티 사이트**
     - Spring 개발: [진행중]
 
