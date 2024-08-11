@@ -31,19 +31,19 @@
 
 | **Category**          | **Technologies**                                                                                                                                                                                                                                                                                        |
 |-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Languages**         | <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" width="50" height="23"> <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" width="50" height="23"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="50" height="23">  |
+| **Languages**         | <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" width="50" height="23"> <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" width="55" height="23"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="60" height="23">  |
 | **Frameworks & Libraries** | <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" width="55" height="23"> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=Spring%20Boot&logoColor=white" width="80" height="23"> <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=Spring%20Security&logoColor=white" width="100" height="23"> <img src="https://img.shields.io/badge/Spring%20Batch-6DB33F?style=for-the-badge&logo=Databricks&logoColor=white" width="90" height="23"> <img src="https://img.shields.io/badge/spring%20data%20jpa-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" width="100" height="23"> |
 | **Databases**         | <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" width="50" height="23"> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" width="50" height="23">                                                                                                                             |
 | **DevOps & Cloud**    | <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="50" height="23"> <img src="https://img.shields.io/badge/ec2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white" width="50" height="23"> <img src="https://img.shields.io/badge/rds-527FFF?style=for-the-badge&logo=Amazon%20RDS&logoColor=white" width="50" height="23"> <img src="https://img.shields.io/badge/Amazon%20Route%2053-8C4FFF?style=for-the-badge&logo=Amazon%20Route%2053&logoColor=white" width="90" height="23"> <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white" width="80" height="23"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" width="55" height="23"> <img src="https://img.shields.io/badge/GitHub%20Actions-5455FE.svg?style=for-the-badge&logo=GitHubActions&logoColor=white" width="100" height="23"> |
 | **API Specification** | <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" width="70" height="23"> <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" width="70" height="23">                                                                                                                         |
 | **Tools & Platforms** | <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" width="50" height="23"> <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" width="55" height="23"> <img src="https://img.shields.io/badge/Notion-%23FFFFFF.svg?style=for-the-badge&logo=notion&logoColor=black" width="70" height="23" alt="Notion"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" width="65" height="23"> |
 ## 📖  Books
-- HTTP 완벽 가이드 - 데이빗 고울리 (완독)
-- 자바 ORM 표준 JPA 프로그래밍 - 김영한 (완독)
-- Java의 정석 - 남궁성 (완독)
-- 만들면서 배우는 클린 아키텍처 (완독)
-- AWS 교과서 (60% 발췌독)
-- 개발자를 위한 레디스 (10% 발췌독)
+- **HTTP 완벽 가이드** - 데이빗 고울리 (완독)
+- **자바 ORM 표준 JPA 프로그래밍** - 김영한 (완독)
+-** Java의 정석** - 남궁성 (완독)
+- **만들면서 배우는 클린 아키텍처** (완독)
+-** AWS 교과서** (60% 발췌독)
+- **개발자를 위한 레디스** (10% 발췌독)
 
 [![Kang20 GitHub stats](https://github-readme-stats.vercel.app/api?username=Kang20)](https://github.com/Kang20/github-readme-stats)
 
