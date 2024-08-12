@@ -27,6 +27,12 @@
     - Spring 멘토링 진행
 - <img width="13" src="https://github.com/user-attachments/assets/7ae0b8a5-bcb7-4ee9-91e8-3c649248635b" alt="야금톡 로고"> **대학교 IT 세미나 행사**: 야밤의 금오톡
     - `백엔드 개발진: 2024.03 ~ ing`
+## 🎓 Study
+- 📖  **읽었던 개발 서적**: 총 6권
+  - [읽었던 책 6권](https://github.com/kang20/kang20/blob/main/book.md)
+- 😊 **개인 공부 이력**
+  - [개발 공부 이력](https://github.com/kang20/kang20/blob/main/study.md)
+  
 ## 🛠️ Stacks
 
 | **Category**          | **Technologies**                                                                                                                                                                                                                                                                                        |
@@ -38,11 +44,7 @@
 | **API Specification** | <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" width="70" height="23"> <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" width="70" height="23">                                                                                                                         |
 | **Tools & Platforms** | <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" width="50" height="23"> <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" width="55" height="23"> <img src="https://img.shields.io/badge/Notion-%23FFFFFF.svg?style=for-the-badge&logo=notion&logoColor=black" width="70" height="23" alt="Notion"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" width="65" height="23"> |
 
-## 🎓 Study
-- 📖  **읽었던 개발 서적**: 총 6권
-  - [읽었던 책 6권](https://github.com/kang20/kang20/blob/main/book.md)
-- 😊 **개인 공부 이력**
-  - [개발 공부 이력](https://github.com/kang20/kang20/blob/main/study.md)
+
 
 [![Kang20 GitHub stats](https://github-readme-stats.vercel.app/api?username=Kang20)](https://github.com/Kang20/github-readme-stats)
 
