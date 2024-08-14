@@ -20,6 +20,7 @@
 ## 🌱 Activity
 - 🥼  **Inteligence Software Lab**: 학부 연구생
     - `최적화 알고리즘 연구 참여 : 2023.05 ~ ing`
+    - [DQN과 A2C 기반 최적화 연구](https://github.com/kang20/RL)
 - 🏆 **2023년 메타버스 수도 경북 해커톤**
     - Spring 개발 : 유니티를 웹 서비스로 통신하는 파이프라인 구축, 로그인 및 API 구현
     - [[2위] 입상 증명서](https://ibb.co/sWNmTpR)
