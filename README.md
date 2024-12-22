@@ -29,12 +29,6 @@
     - Spring 멘토링 진행
 - <img width="13" src="https://github.com/user-attachments/assets/7ae0b8a5-bcb7-4ee9-91e8-3c649248635b" alt="야금톡 로고"> **대학교 IT 세미나 행사**: 야밤의 금오톡
     - `백엔드 개발진: 2024.03 ~ ing`
-## 🎓 Study
-- 📖  **읽었던 개발 서적**: 총 6권
-  - [읽었던 책 6권](https://github.com/kang20/kang20/blob/main/book.md)
-- 😊 **개인 공부 이력**
-  - [개발 공부 이력](https://github.com/kang20/kang20/blob/main/study.md)
-  
 ## 🛠️ Stacks
 
 | **Category**          | **Technologies**                                                                                                                                                                                                                                                                                        |
